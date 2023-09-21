@@ -1,0 +1,27 @@
+lockfileVersion: '6.1'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@hayato94087/math-helpers-arithmetics-github-actions-publish':
+    specifier: ^0.0.1
+    version: 0.0.1
+
+devDependencies:
+  typescript:
+    specifier: ^5.2.2
+    version: 5.2.2
+
+packages:
+
+  /@hayato94087/math-helpers-arithmetics-github-actions-publish@0.0.1:
+    resolution: {integrity: sha512-OM1Vz1ITYmEaKMjOhRMmybOM9ZXd/IclNuvQMc0HNIGzCNkSYksg8eXjGoWgcrhRC52TRpyKl9cVuSQklk3YlQ==, tarball: https://npm.pkg.github.com/download/@hayato94087/math-helpers-arithmetics-github-actions-publish/0.0.1/d66f234f682a2f1c2be8c2f027d09bc89f55fc31}
+    dev: false
+
+  /typescript@5.2.2:
+    resolution: {integrity: sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w==}
+    engines: {node: '>=14.17'}
+    hasBin: true
+    dev: true
